@@ -1,0 +1,1 @@
+select avg(name) from city where district='California';
