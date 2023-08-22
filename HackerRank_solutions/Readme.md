@@ -4,13 +4,10 @@
     </a>
     <br>
 </p>
-* [SQL](#sql)
 
-SQL solutions are coded using MySQL
+- [SQL](#sql)
 
                                                             |
-
-https://github.com/GK-CPP/SQL/blob/master/HackerRank_solutions/Basic%20Select/Revising%20the%20Select%20Query%20I.sql
 
 # SQL
 
