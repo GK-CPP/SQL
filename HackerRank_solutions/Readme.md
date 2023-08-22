@@ -1,14 +1,3 @@
-<p align="center">
-    <a href="https://www.hackerrank.com/Gulam_Kibria">
-        <img height=85 src="https://www.hackerrank.com/dashboard">
-    </a>
-    <br>
-</p>
-
-- [SQL](#sql)
-
-                                                            |
-
 # SQL
 
 |  Subdomain   |                                              Challenge                                               | Points |                                                                 Solution                                                                 |
