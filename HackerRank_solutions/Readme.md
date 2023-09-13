@@ -44,3 +44,12 @@
 |   Aggregation   |            [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)            |   25   |         [MySQL Solution](https://github.com/GK-CPP/SQL/blob/master/HackerRank_solutions/Aggregation/Weather%20Observation%20Station%2018.sql)         |
 |   Aggregation   |            [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)            |   30   |         [MySQL Solution](https://github.com/GK-CPP/SQL/blob/master/HackerRank_solutions/Aggregation/Weather%20Observation%20Station%2019.sql)         |
 |                 |
+
+<br> <br> 
+
+=============================================== <br> 
+Gulam Kibria Chowdhury <br>
+CSE Graduate || Competitive Programmer <br>
+Sylhet, Bangladesh <br>
+Gmail: gkchowdhury101@gmail.com <br>
+=============================================== <br>
